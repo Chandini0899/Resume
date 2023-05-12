@@ -1,0 +1,41 @@
+/* body{
+    padding: 20px;
+} */
+header{
+    margin-bottom: 50px;
+}
+article{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 3px;
+}
+header h1{
+    color: rgb(53, 166, 241);
+    text-align: center;
+}
+header a{
+    text-decoration: none;
+}
+.ed{
+    padding-left: 20px;
+}
+h1,h2,h3{
+    color: rgb(53, 166, 241);
+}
+/* header span{
+    position: relative;
+    left: 35%;
+} */
+h4{
+    font-weight: 500;
+}
+ul li{
+    padding: 5px;
+}
+
+.sb{
+    max-width:850px;
+    /* margin-top: -10px; */
+    /* background: black; */
+    /* justify-content:right; */
+}
